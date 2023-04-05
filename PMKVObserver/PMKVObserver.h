@@ -12,7 +12,7 @@
 //  except according to those terms.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 //! Project version number for PMKVObserver.
 FOUNDATION_EXPORT double PMKVObserverVersionNumber;
